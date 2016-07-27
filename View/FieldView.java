@@ -17,4 +17,6 @@ public class FieldView extends JFrame{
         this.setBackground(Color.GREEN);
         this.add(fieldView);
     }
+
+
 }
